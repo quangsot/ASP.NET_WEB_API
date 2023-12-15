@@ -1,0 +1,17 @@
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\WebFresher202306.Infrastructure.csproj.AssemblyReference.cache
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\WebFresher202306.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\WebFresher202306.Infrastructure.AssemblyInfoInputs.cache
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\WebFresher202306.Infrastructure.AssemblyInfo.cs
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\WebFresher202306.Infrastructure.csproj.CoreCompileInputs.cache
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\bin\Debug\net6.0\WebFresher202306.Infrastructure.deps.json
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\bin\Debug\net6.0\WebFresher202306.Infrastructure.dll
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\bin\Debug\net6.0\WebFresher202306.Infrastructure.pdb
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\bin\Debug\net6.0\WebFresher202306.Application.dll
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\bin\Debug\net6.0\WebFresher202306.Domain.dll
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\bin\Debug\net6.0\WebFresher202306.Application.pdb
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\bin\Debug\net6.0\WebFresher202306.Domain.pdb
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\WebFresher202306.Infrastructure.csproj.CopyComplete
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\WebFresher202306.Infrastructure.dll
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\refint\WebFresher202306.Infrastructure.dll
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\WebFresher202306.Infrastructure.pdb
+D:\MISA\web6\gd1\web\back-up\MISA.WebFresher202306\MISA.WebFresher202306\MISA.WebFresher202306.Infrastructure\obj\Debug\net6.0\ref\WebFresher202306.Infrastructure.dll

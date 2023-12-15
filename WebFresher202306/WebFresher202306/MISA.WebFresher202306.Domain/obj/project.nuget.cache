@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "6de2s36BS6N/rHqD11KKZD3GKIhOu5AsIPUVnO0DcbeY9npBd3wX6RpLnd2XrNK1bBpvpfPjE1qBo0sMrxmgIg==",
+  "success": true,
+  "projectFilePath": "D:\\MISA\\web6\\gd1\\web\\back-up\\WebFresher202306\\WebFresher202306\\MISA.WebFresher202306.Domain\\WebFresher202306.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Dell\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

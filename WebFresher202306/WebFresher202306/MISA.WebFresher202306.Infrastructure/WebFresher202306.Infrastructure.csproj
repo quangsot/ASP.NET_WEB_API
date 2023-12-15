@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.143" />
+    <PackageReference Include="EPPlus" Version="6.2.8" />
+    <PackageReference Include="MySqlConnector" Version="2.2.7" />
+    <PackageReference Include="NUnit" Version="3.13.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MISA.WebFresher202306.Application\WebFresher202306.Application.csproj" />
+    <ProjectReference Include="..\MISA.WebFresher202306.Domain\WebFresher202306.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

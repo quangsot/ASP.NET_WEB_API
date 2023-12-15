@@ -1,0 +1,154 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain.Tests\\MISA.WebFresher202306.Domain.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain.Tests\\MISA.WebFresher202306.Domain.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain.Tests\\MISA.WebFresher202306.Domain.Tests.csproj",
+        "projectName": "MISA.WebFresher202306.Domain.Tests",
+        "projectPath": "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain.Tests\\MISA.WebFresher202306.Domain.Tests.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain\\MISA.WebFresher202306.Domain.csproj": {
+                "projectPath": "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain\\MISA.WebFresher202306.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain\\MISA.WebFresher202306.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain\\MISA.WebFresher202306.Domain.csproj",
+        "projectName": "MISA.WebFresher202306.Domain",
+        "projectPath": "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain\\MISA.WebFresher202306.Domain.csproj",
+        "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
+        "outputPath": "D:\\MISA\\web6\\gd1\\web\\back-up\\MISA.WebFresher202306\\MISA.WebFresher202306\\MISA.WebFresher202306.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
